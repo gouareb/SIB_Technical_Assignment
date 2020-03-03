@@ -20,11 +20,11 @@ The protein identifier have been taken as an argument in the main function: main
 ## Running the tests
 The program have been tested on three protein identifiers NX_P01308, NX_Q96IX5,NX_O95714.
 
-***Inputs     *** Outputs
+*** Inputs    >> Outputs
 
-*** NX_P01308 *** L  = 20 , G  = 12 , A  = 10
-*** NX_Q96IX5 *** A  = 6 , T  = 6 , K  = 6 
-*** NX_O95714 *** L  = 547 , S  = 413 , G  = 396
+*** NX_P01308 >> L  = 20 , G  = 12 , A  = 10
+*** NX_Q96IX5 >> A  = 6 , T  = 6 , K  = 6 
+*** NX_O95714 >> L  = 547 , S  = 413 , G  = 396
 
 
 ## Authors
